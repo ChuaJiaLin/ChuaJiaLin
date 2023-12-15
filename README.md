@@ -8,6 +8,8 @@ In this semester, I studied about:
 - DIGITAL LOGIC
 - TECHNOLOGY AND INFORMATION SYSTEM
 - INTEGRITY AND ANTI-CORRUPTION COURSE
+
+You can contact me via gmail (chuajialin2004@gmail.com)
   
 <!--
 **ChuaJiaLin/ChuaJiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
