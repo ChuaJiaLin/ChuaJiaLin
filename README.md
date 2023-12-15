@@ -1,6 +1,14 @@
+Hi there 👋
 
-### Hi there 👋
+I'm a year 1 Data Engineering student in UTM.
 
+In this semester, I studied about:
+- DISCRETE STRUCTURE
+- PROGRAMMING TECHNIQUE 1 (C++)
+- DIGITAL LOGIC
+- TECHNOLOGY AND INFORMATION SYSTEM
+- INTEGRITY AND ANTI-CORRUPTION COURSE
+  
 <!--
 **ChuaJiaLin/ChuaJiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
