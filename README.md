@@ -9,6 +9,13 @@ I'm Chua Jia Lin, a year 1 sem 1 student studying Bachelor of Computer Science (
 - TECHNOLOGY AND INFORMATION SYSTEM
 - INTEGRITY AND ANTI-CORRUPTION COURSE
 
+Programming skill I know:
+- C++
+- Java
+
+Interest:
+- Reading novels
+
 📫 You can contact me via gmail (chuajialin2004@gmail.com)
   
 <!--
