@@ -1,15 +1,15 @@
 Hi there 👋
 
-I'm a year 1 Data Engineering student in UTM.
+I'm Chua Jia Lin, a year 1 sem 1 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
 
-In this semester, I studied about:
+🌱 In this semester, I studied about:
 - DISCRETE STRUCTURE
 - PROGRAMMING TECHNIQUE 1 (C++)
 - DIGITAL LOGIC
 - TECHNOLOGY AND INFORMATION SYSTEM
 - INTEGRITY AND ANTI-CORRUPTION COURSE
 
-You can contact me via gmail (chuajialin2004@gmail.com)
+📫 You can contact me via gmail (chuajialin2004@gmail.com)
   
 <!--
 **ChuaJiaLin/ChuaJiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
