@@ -15,8 +15,9 @@ Programming skill I know:
 
 Interest:
 - Reading novels
+- Staying in a room
 
-📫 You can contact me via gmail (chuajialin2004@gmail.com)
+📫 You can contact me via gmail (chuajialin2004@gmail.com) @ (chuajialin@graduate.utm.my)
   
 <!--
 **ChuaJiaLin/ChuaJiaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
