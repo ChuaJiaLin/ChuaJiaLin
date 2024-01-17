@@ -9,13 +9,17 @@ I'm Chua Jia Lin, a year 1 sem 1 student studying Bachelor of Computer Science (
 - TECHNOLOGY AND INFORMATION SYSTEM
 - INTEGRITY AND ANTI-CORRUPTION COURSE
 
-Programming skill I know:
-- C++
-- Java
+Skills:
+- Programming languages such as C++ & Java
+- Editing video using Capcut
+- Doing course work using Microsoft 365
+- Creating presentation slides using Canva
 
-Interest:
-- Reading novels
-- Staying in a room
+Results:
+- SPM (10A)
+- Matriculation at Kolej Matrikulasi Pahang (KMPh) (CGPA 4.0)
+- MUET (Band 4.0)
+
 
 📫 You can contact me via gmail (chuajialin2004@gmail.com) @ (chuajialin@graduate.utm.my)
   
