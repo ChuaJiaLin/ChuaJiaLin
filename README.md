@@ -2,7 +2,7 @@ Hi there 👋
 
 I'm Chua Jia Lin, a year 1 sem 1 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
 
-Here is my Github e-portfolio: https://chuajialin.github.io/
+Here is my e-portfolio: https://chuajialin.github.io/
 
 🌱 In this semester, I studied about:
 - DISCRETE STRUCTURE
