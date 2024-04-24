@@ -1,15 +1,16 @@
 Hi there 👋
 
-I'm Chua Jia Lin, a year 1 sem 1 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
+I'm Chua Jia Lin, a year 1 sem 2 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
 
 Here is my e-portfolio: https://chuajialin.github.io/
 
 🌱 In this semester, I studied about:
-- DISCRETE STRUCTURE
-- PROGRAMMING TECHNIQUE 1 (C++)
-- DIGITAL LOGIC
-- TECHNOLOGY AND INFORMATION SYSTEM
-- INTEGRITY AND ANTI-CORRUPTION COURSE
+- PROBABILITY & STATISTICAL DATA ANALYSIS
+- PROGRAMMING TECHNIQUE 2 (C++)
+- SYSTEM ANALYSIS AND DESIGN (WBL)
+- COMPUTER ORGANIZATION AND ARCHITECTURE
+- HUMAN COMPUTER INTERACTION
+- APPRECIATION OF ETHICS AND CIVILIZATION
 
 Skills:
 - Programming languages such as C++ & Java
@@ -21,6 +22,7 @@ Results:
 - SPM (10A)
 - Matriculation at Kolej Matrikulasi Pahang (KMPh) (CGPA 4.0)
 - MUET (Band 4.0)
+- Current CGPA 4.00
 
 
 📫 You can contact me via gmail (chuajialin2004@gmail.com) @ (chuajialin@graduate.utm.my)
