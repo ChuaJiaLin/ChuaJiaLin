@@ -13,7 +13,7 @@ Here is my e-portfolio: https://chuajialin.github.io/
 - APPRECIATION OF ETHICS AND CIVILIZATION
 
 Skills:
-- Programming languages such as C++ & Java
+- Programming languages such as C++
 - Editing video using Capcut
 - Doing course work using Microsoft 365
 - Creating presentation slides using Canva
