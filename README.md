@@ -1,16 +1,16 @@
 Hi there 👋
 
-I'm Chua Jia Lin, a year 1 sem 2 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
+I'm Chua Jia Lin, a year 2 sem 1 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
 
 Here is my e-portfolio: https://chuajialin.github.io/
 
 🌱 In this semester, I studied about:
-- PROBABILITY & STATISTICAL DATA ANALYSIS
-- PROGRAMMING TECHNIQUE 2 (C++)
-- SYSTEM ANALYSIS AND DESIGN (WBL)
-- COMPUTER ORGANIZATION AND ARCHITECTURE
-- HUMAN COMPUTER INTERACTION
-- APPRECIATION OF ETHICS AND CIVILIZATION
+- DATA STRUCTURE AND ALGORITHM
+- DATABASE (WBL)
+- SOFTWARE ENGINEERING (WBL)
+- SYSTEM DEVELOPMENT TECHNOLOGY (WBL)
+- NETWORK COMMUNICATION
+- KOQ ORIENTEERING
 
 Skills:
 - Programming languages such as C++
