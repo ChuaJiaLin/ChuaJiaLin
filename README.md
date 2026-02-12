@@ -1,14 +1,20 @@
 
 # Hi there 👋
 
-I'm Chua Jia Lin, an upcoming year 3 sem 1 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
+I'm Chua Jia Lin, an upcoming year 3 sem 2 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
+
+
+# Badges Gained
+<img width="150" height="150" alt="microsoft-certified-azure-data-fundamentals" src="https://github.com/user-attachments/assets/e9b95f60-bcb7-4d59-aecf-aa4a167c9600" />
+
 
 
 ## 🛠 Skills
-- Programming languages such as C++, Java, and Python
+- Programming languages such as C++, Java, Python, SQL, MongoDB
 - Creating videos using Capcut and Canva
 - Doing course work using Microsoft 365
 - Creating presentation slides using Canva
+- Creating dashboard using Tableu & Power BI
 
 
 ## Results
