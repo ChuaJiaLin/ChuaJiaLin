@@ -15,6 +15,7 @@ I'm Chua Jia Lin, an upcoming year 3 sem 2 student studying Bachelor of Computer
 - Doing course work using Microsoft 365
 - Creating presentation slides using Canva
 - Creating dashboard using Tableu & Power BI
+- Creating aplication using SAP Build Apps
 
 
 ## Results
