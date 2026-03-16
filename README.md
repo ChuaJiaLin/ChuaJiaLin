@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-I'm Chua Jia Lin, an upcoming year 3 sem 2 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
+I'm Chua Jia Lin, a year 3 sem 2 student studying Bachelor of Computer Science (Data Engineering) in University Teknologi Malaysia (UTM).
 
 
 # Badges Gained
