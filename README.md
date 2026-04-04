@@ -5,7 +5,10 @@ I'm Chua Jia Lin, a year 3 sem 2 student studying Bachelor of Computer Science (
 
 
 # Badges Gained
-<img width="150" height="150" alt="microsoft-certified-azure-data-fundamentals" src="https://github.com/user-attachments/assets/e9b95f60-bcb7-4d59-aecf-aa4a167c9600" />
+<p>
+  <img width="150" src="https://github.com/user-attachments/assets/e9b95f60-bcb7-4d59-aecf-aa4a167c9600" />
+  <img width="150" src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" />
+</p>
 
 
 
