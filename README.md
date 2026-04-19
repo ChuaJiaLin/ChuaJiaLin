@@ -8,6 +8,8 @@ I'm Chua Jia Lin, a year 3 sem 2 student studying Bachelor of Computer Science (
 <p>
   <img width="150" src="https://github.com/user-attachments/assets/e9b95f60-bcb7-4d59-aecf-aa4a167c9600" />
   <img width="150" src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" />
+  <img width="150" src="https://images.credly.com/size/160x160/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" />
+  <img width="150" src="https://images.credly.com/size/160x160/images/43f26cf1-0b54-41a3-9fa5-3d2f02fa5040/blob" />
 </p>
 
 
@@ -19,6 +21,8 @@ I'm Chua Jia Lin, a year 3 sem 2 student studying Bachelor of Computer Science (
 - Creating presentation slides using Canva
 - Creating dashboard using Tableu & Power BI
 - Creating application using SAP Build Apps
+- Creating end-to-end data pipeline using Microsoft Azure services
+- Create application using Flutter
 
 
 ## Results
