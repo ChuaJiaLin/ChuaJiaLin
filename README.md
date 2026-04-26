@@ -10,6 +10,7 @@ I'm Chua Jia Lin, a year 3 sem 2 student studying Bachelor of Computer Science (
   <img width="150" src="https://images.credly.com/size/680x680/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" />
   <img width="150" src="https://images.credly.com/size/160x160/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" />
   <img width="150" src="https://images.credly.com/size/160x160/images/43f26cf1-0b54-41a3-9fa5-3d2f02fa5040/blob" />
+  <img width="150" src="https://images.credly.com/size/160x160/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" />
 </p>
 
 
